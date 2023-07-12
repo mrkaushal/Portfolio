@@ -7,8 +7,7 @@ const AboutPage = () => {
       <h3>A Little Bit About Me</h3>
       <br />
       <p>
-        Web designer from Gujarat, India. I have rich experience in website design and building, also I am good at Django and WordPress.
-        I love to talk with you about the idea of our unique project.
+        A computer science student with a strong passion for problem-solving and an avid interest in the latest technology trends, my skills in programming, data analysis, and problem-solving have been honed, and the desire to apply these skills in a professional setting is strong. A proactive learner who is always seeking new challenges and opportunities to grow and develop as a computer engineer, staying current with the latest trends and advancements in the field has been a top priority to stay on top of the game and excel in studies.
       </p>
       <br />
       {/* Education */}
