@@ -1,0 +1,6 @@
+.btn{
+    color: var(--button-text);
+    background-color: var(--accent-color);
+    text-decoration: none;
+    font-weight: bolder;
+}

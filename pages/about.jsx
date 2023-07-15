@@ -46,6 +46,19 @@ const AboutPage = () => {
       <h2>Experience</h2>
       <div className={styles.container}>
         <div className={styles.card}>
+            <div>
+              <img className={styles.left_img} src="/exp/phpdots.jpg" alt="prolog" />
+              <h3 className={styles.title}>Prolog Infotech</h3>
+              <br/>
+              <span className={styles.span} style={{textAlign: 'right'}}>Data Analyst(2023)</span>
+            </div>
+            <p className={styles.desc}>
+            As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
+            </p>
+        </div>
+      </div>
+      <div className={styles.container}>
+        <div className={styles.card}>
           <div>
             <img className={styles.left_img} src="/exp/phpdots.jpg" alt="PHPDOTS" />
             <h3 className={styles.title}>PHP Dots Technologies</h3>
@@ -53,15 +66,13 @@ const AboutPage = () => {
           </div>
           <p className={styles.desc}>
           As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
-          <br></br>
-          Overall, my internship at PHPdots Technologies was a valuable learning experience. I gained technical skills in PHP and MySQL, as well as a deeper understanding of the importance of teamwork, communication, and innovation in the workplace. I am grateful for the opportunity to have worked with such a talented and supportive team, and I look forward to applying what I learned in future projects and opportunities.
           </p>
         </div>
         <div className={styles.card}>
           <h3 className={styles.title}>Freelancer</h3>
           <span className={styles.span}>Full-Stack Web Development (2019 - Present)</span>
           <p className={styles.desc}>
-            As a freelancer with expertise in Shopify, Python, Django, PHP, and machine learning, I am committed to providing customized solutions to clients. I have experience working on various projects in these areas and am able to adapt to different programming languages and technologies. I take pride in delivering high-quality work and building long-term relationships with my clients. My ability to understand clients' needs and tailor solutions to meet those needs is one of my greatest strengths. I am passionate about staying up-to-date with the latest developments in these areas and constantly improving my skills to deliver exceptional results.
+            As a freelancer with expertise in Shopify, Python, Django, PHP, and machine learning, I am committed to providing customized solutions to clients. I have experience working on various projects in these areas and am able to adapt to different programming languages and technologies.
           </p>
         </div>
       </div>
