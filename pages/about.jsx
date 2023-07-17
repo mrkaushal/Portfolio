@@ -62,7 +62,7 @@ const AboutPage = () => {
           <div>
             <img className={styles.left_img} src="/exp/phpdots.jpg" alt="PHPDOTS" />
             <h3 className={styles.title}>PHP Dots Technologies</h3>
-            <span className={styles.span}>Full-Stack Web Developer (2021)</span>
+            <span className={styles.span}>Full-Stack Web Developer (2022)</span>
           </div>
           <p className={styles.desc}>
           As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
