@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: 'kaushalpatel.info',
-    href: 'https://kaushalpatel.info',
+    href: 'https://kaushalpatel.com',
   },
   {
     social: 'email',
