@@ -19,7 +19,7 @@ const AboutPage = () => {
             <h3 className={styles.title}>CHARUSAT University, Anand</h3>
             <span className={styles.span}>B.Tech - Computer Science (2021 - 2024)</span>
           </div>
-          <p className={styles.desc}><b>Grade: CGPA - 8.11</b><br/>I have attended the Blockchain Technology workshop, also participated in 30 Days of Google Cloud Challenge. I am also participating in hackathons and other events.<br /></p>
+          <p className={styles.desc}><b>Grade: CGPA - 8.11</b><br />I have attended the Blockchain Technology workshop, also participated in 30 Days of Google Cloud Challenge. I am also participating in hackathons and other events.<br /></p>
         </div>
         <div className={styles.card}>
           <div>
@@ -46,26 +46,39 @@ const AboutPage = () => {
       <h2>Experience</h2>
       <div className={styles.container}>
         <div className={styles.card}>
-            <div>
-              <img className={styles.left_img} src="/exp/phpdots.jpg" alt="prolog" />
+          <div>
+            <img className={styles.left_img} src="/exp/iaswe.jpg" alt="prolog" style={{ height: '50px', width: '50px' }} />
+            <h3 className={styles.title}>IASWE Solutions Pvt. Ltd. (InfiRaise)</h3>
+            <br />
+            <span className={styles.span}>Full-Stack Web Developer(2024)</span>
+          </div>
+          <p className={styles.desc}>
+          During my tenure at IASWE Solutions Pvt. Ltd., I thrived as a full-stack web developer, contributing to various projects with my expertise in both front-end and back-end technologies. Collaborating with talented teams, I honed my skills in creating robust and user-friendly web applications, ensuring seamless functionality and optimal user experience.
+          </p>
+        </div>
+        <div className={styles.card}>
+          <div>
+            <img className={styles.left_img} src="/exp/prolog.png" alt="prolog" style={{ height: '50px', width: '50px' }} />
+            <div className={styles.text_container}>
               <h3 className={styles.title}>Prolog Infotech</h3>
-              <br/>
-              <span className={styles.span} style={{textAlign: 'right'}}>Data Analyst(2023)</span>
+              <br />
+              <span className={styles.span}>Data Analyst(2023)</span>
             </div>
-            <p className={styles.desc}>
-            As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
-            </p>
+          </div>
+          <p className={styles.desc}>
+          During my tenure at Prolog Infotech, I embraced my role as a Python developer specializing in data analysis. Working closely with data sets, I leveraged Python's powerful libraries to extract meaningful insights and drive informed decision-making for clients. From data preprocessing to visualization.
+          </p>
         </div>
       </div>
       <div className={styles.container}>
         <div className={styles.card}>
           <div>
             <img className={styles.left_img} src="/exp/phpdots.jpg" alt="PHPDOTS" />
-            <h3 className={styles.title}>PHP Dots Technologies</h3>
+            <h3 className={styles.title}>Tuvoc Technologies (Previous: PHP Dots)</h3>
             <span className={styles.span}>Full-Stack Web Developer (2022)</span>
           </div>
           <p className={styles.desc}>
-          As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
+            As an intern at PHPdots Technologies in Ahmedabad, I had the opportunity to learn and work with a variety of technologies, including PHP and MySQL. During my time at the company, I gained valuable experience in web development, database management, and programming best practices.
           </p>
         </div>
         <div className={styles.card}>
