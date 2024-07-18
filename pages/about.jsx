@@ -83,7 +83,7 @@ const AboutPage = () => {
         </div>
         <div className={styles.card}>
           <h3 className={styles.title}>Freelancer</h3>
-          <span className={styles.span}>Full-Stack Web Development (2019 - Present)</span>
+          <span className={styles.span}>Full-Stack Web Development (2022 - Present)</span>
           <p className={styles.desc}>
             As a freelancer with expertise in Shopify, Python, Django, PHP, and machine learning, I am committed to providing customized solutions to clients. I have experience working on various projects in these areas and am able to adapt to different programming languages and technologies.
           </p>
