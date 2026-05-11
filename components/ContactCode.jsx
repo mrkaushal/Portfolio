@@ -3,13 +3,13 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'kaushalpatel.info',
+    link: 'kaushalpatel.com',
     href: 'https://kaushalpatel.com',
   },
   {
     social: 'email',
-    link: 'mail@kaushalpatel.com',
-    href: 'mailto:mail@kaushalpatel.com',
+    link: 'work@kaushalpatel.com',
+    href: 'mailto:work@kaushalpatel.com',
   },
   {
     social: 'github',
